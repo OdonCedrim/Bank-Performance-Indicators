@@ -1,4 +1,4 @@
-# BI BanVic – Performance Indicators
+# Bank – Performance Indicators
 
 This project demonstrates a Business Intelligence (BI) solution applied to performance analysis for BanVic. By integrating internal data (e.g., agencies, customers, collaborators, accounts, credit proposals, and transactions) with external macroeconomic indicators (IPCA, SELIC, ICC), the project generates strategic insights to support operational and business decision-making.
 
